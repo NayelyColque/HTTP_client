@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HTTPclind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+910fb3ca97dbbf0e4cac138fd46723ec9ca179b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("HTTPclind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HTTPclind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
